@@ -4,7 +4,7 @@ function tabela(a){
 for(i=0;i<=a;i++){
     const num = []
     for(j = 0; j<=a;j++){
-     ;
+    multiplicacao = i*j;
     num.push(multiplicacao)
         
     }
